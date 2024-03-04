@@ -1,0 +1,27 @@
+img{
+    max-width: 100%;
+    max-height: 500px;
+    display: block;
+    margin: 0px auto;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+h1 {
+    text-align: center;
+}
+.link{
+    text-align: center;
+    margin: auto;
+}
+
+.bottom, .top, .click {
+    text-align: center;  
+}
+
+
+.meme-container{
+ position:relative;
+ text-align:center;
+ display:inline-block;
+}
